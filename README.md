@@ -2,6 +2,10 @@
  demo of scrapy
  get quotes form http://quotes.toscrape.com/
  
+ # run 
+ * scrapy crawl toscrape-css
+ * scrapy crawl toscrape-css -o quotes.json
+ 
  # enviroment(latest Twisted 19 is not suitable)
 * Scrapy       : 1.7.3
 * lxml         : 4.4.1.0
