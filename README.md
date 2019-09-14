@@ -1,0 +1,2 @@
+# quotesbot
+ demo of scrapy
